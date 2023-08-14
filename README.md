@@ -103,8 +103,3 @@ http://47.113.191.56:8080/
        ├─ jwt.go（权限校验）
        └─ video.go（视频处理）
 ```
-
-# 3. 文档说明
-
-详细说明请参考
-[2022字节跳动后端青训营抖音项目文档](https://gjj3nncz08.feishu.cn/docx/doxcnJGyQHB30zcOkkT3CkTC6Oc)
